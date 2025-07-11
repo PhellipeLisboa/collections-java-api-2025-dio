@@ -4,7 +4,7 @@
 
 ### 📝Listas de exercício:
 - [List](src/main/java/list)
-  - [Operações básicas](src/main/java/list/operacoesbasicas)
+  - [Operações básicas](src/main/java/list/OperacoesBasicas)
   - [Pesquisa](src/main/java/list/Pesquisa)
   - [Ordenação](src/main/java/list/Ordenacao)
 - [Map](src/main/java/map)
